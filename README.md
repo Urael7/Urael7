@@ -7,7 +7,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 4th Year ECE Student  
+- 🎓 5th Year ECE Student  
 - 🔧 Interested in Backend Development & System Design  
 - 🌐 Exploring Full-Stack Development  
 - 📡 Working on Real-Time Public Transport Tracking System  
