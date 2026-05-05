@@ -2,14 +2,14 @@
 
 🎓 Electrical and Computer Engineering (ECE) Student at Addis Ababa Science and Technology University (AASTU)  
 💡 Passionate about Software Development, IoT, and Real-Time Systems  
-🚀 Currently working on innovative tech projects  
+🚀 Currently working on innovative tech projects and Fullstack web development  
 
 ---
 
 ## 🧑‍💻 About Me
 - 🎓 5th Year ECE Student  
-- 🔧 Interested in Backend Development & System Design  
-- 🌐 Exploring Full-Stack Development  
+- 🔧 Interested in Full-Stack Development & System Design  
+- 🌐 cybersecurity enthusiast  
 - 📡 Working on Real-Time Public Transport Tracking System  
 - ⚡ Love building practical tech solutions  
 
@@ -79,20 +79,20 @@
 
 ## 📌 Featured Projects
 - 🚍 Real-Time Public Transport Tracking System  
-- 🛒 Flutter Shopping Cart Application  
-- 🔐 JWT Authentication System (Node.js)  
-- ⚡ Energy Generating Sidewalk Project  
+- 🧠 Mobile Apps
+- 🔐 Office Management Web App  
+- ⚡ Learning Management System
 
 ---
 
 ## 📫 Connect With Me
 <p>
-  <a href="mailto:your-email@example.com">📧 Email</a> |
-  <a href="https://linkedin.com/in/YOUR_PROFILE">💼 LinkedIn</a> |
-  <a href="https://github.com/YOUR_USERNAME">🐙 GitHub</a>
+  <a href="mailto:uraelyafet@gmail.com">📧 Email</a> |
+  <a href="https://www.linkedin.com/in/urael7">💼 LinkedIn</a> |
+  <a href="https://github.com/Urael7">🐙 GitHub</a>
 </p>
 
 ---
 
 ## ⚡ Fun Fact
-> I enjoy combining hardware and software to build real-world solutions 🚀
+> I enjoy combining hardware and software to build real world solutions 🚀
