@@ -45,13 +45,35 @@
 ---
 
 ## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+<!-- GitHub Stats Cards -->
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Urael7&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0a192f&title_color=00D9FF&text_color=e2e8f0&icon_color=00D9FF&border_radius=15&include_all_commits=true" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urael7&layout=compact&theme=react&hide_border=true&bg_color=0a192f&title_color=00D9FF&text_color=e2e8f0&border_radius=15&langs_count=8&hide=html,css" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<!-- Streak Stats & Contribution Graph -->
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://streak-stats.demolab.com?user=Urael7&theme=react&hide_border=true&background=0a192f&stroke=00D9FF&ring=00D9FF&fire=F59E0B&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=64748b&border_radius=15" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Urael7&theme=nord_dark" width="100%" />
+    </td>
+  </tr>
+</table>
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Urael7&theme=react-dark&hide_border=true&bg_color=0a192f&color=00D9FF&line=00D9FF&point=F59E0B&area=true&area_color=00D9FF" width="100%" />
+
+</div>
 
 ---
 
