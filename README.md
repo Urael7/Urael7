@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Yafet Hailesilasse
 
-🎓 Electrical and Computer Engineering (ECE) Student at Addis Ababa Science and Technology University (AASTU)  
+🎓 Electrical and Computer Engineering (ECE) Graduate from Addis Ababa Science and Technology University (AASTU)  
 💡 Passionate about Software Development, IoT, and Real-Time Systems  
 🚀 Currently working on innovative tech projects and Fullstack web development  
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 5th Year ECE Student  
-- 🔧 Interested in Full-Stack Development & System Design  
+- 🎓 Software Engineer 
+- 🔧 Full-Stack Developer & System Designer  
 - 🌐 cybersecurity enthusiast  
-- 📡 Working on Real-Time Public Transport Tracking System  
 - ⚡ Love building practical tech solutions  
 
 ---
